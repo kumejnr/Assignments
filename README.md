@@ -1,2 +1,1 @@
-# Assignments
-Zuri Training Task
+Git and Github Task - This task requires one to create a repository in his github and then add three branches which will include the various task given from week 3 - 5.

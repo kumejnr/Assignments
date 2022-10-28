@@ -1,2 +1,1 @@
-# Assignments
-Zuri Training Task
+CSS Grid Layout Task
